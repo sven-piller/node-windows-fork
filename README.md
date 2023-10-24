@@ -1,3 +1,7 @@
+# FORK for adding daemonDir
+
+see https://github.com/coreybutler/node-windows/issues/269
+
 # node-windows
 
 ![NPM version](https://img.shields.io/npm/v/node-windows?label=node-windows&logo=npm&style=for-the-badge)
